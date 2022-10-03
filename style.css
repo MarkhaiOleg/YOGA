@@ -137,7 +137,7 @@ nav svg{
 .videos video{
   width: 100%;
   border-radius: 1rem;
-  margin-top: 0.5rem;
+  margin-top: 3rem;
 }
 .videos h3{
   position: absolute;
@@ -182,7 +182,7 @@ nav svg{
   }
   .about{
     display: flex;
-    gap: 5rem;
+    gap: 6rem;
     justify-content: space-between;
   }
   .about img{
